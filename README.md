@@ -2,6 +2,10 @@
 
 This is an online web based voting system which is built on the top of Blockchain technology.
 
+how to use?
+
+just clone this repo to your device, go to evoting_blockchain directory and run command "npm insatall" it will install all the dependencies.
+after that run "npm start".
 ## Why E-Voting
   - Voters can vote from anywhere/ anytime 
   - Best in Security
