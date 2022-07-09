@@ -122,10 +122,10 @@ user interface and high security.
 
 ## Authors
 
-* **Sanat Taori**
-* **Akshay Motghare**
-* **Mandar Patil** 
-* **Aniket Narkhede**
+* **MAYUKH BORANA**
+* ** Priya**
+* **Lokesh** 
+* **Dushyant**
 
 ## License
 
